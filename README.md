@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @haneenalokasi
-- 👀 I’m interested in AI, ML, and DL
+- 👀 I’m interested in AI, ML, and Computer Vision
 - 🌱 I’m currently pursuing the M.S. degree in Computer Science with King Faisal University
 - 📫 How to reach me : haneenalokasi@hotmail.com
 
